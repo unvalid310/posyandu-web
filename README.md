@@ -1,0 +1,10 @@
+![sipandu logo 2x scale blue](https://user-images.githubusercontent.com/57007068/121049856-ad60a980-c7ea-11eb-85fc-ab33f98dcdd4.png)
+
+# Posyandu
+
+Aplikasi posyandu cerdas berbasis web dan mobile Android
+
+## **Made possible by**
+
+**Posyandu team**
+Topik Khusus Manajemen Data dan Integrasi Teknologi Informasi 2018 Universitas Udayana
