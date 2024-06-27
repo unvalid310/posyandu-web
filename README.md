@@ -1,4 +1,5 @@
 ## Cara Menjalankan<br>
+** versi PHP 7.4 **
 
 # harus terkoneksi dengan internet !!!!<br>
 1. import databse `sipandu.sql`<br>
